@@ -26,3 +26,7 @@ Dashboard includes:
 - Sales by Product and Country
 - Sales by Segment
 - Monthly Sales Trend
+
+- ## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png.png)
