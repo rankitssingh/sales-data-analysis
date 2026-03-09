@@ -8,3 +8,21 @@ This project repository contains three data analysis mini-projects:
 Tools used: Python, Pandas, NumPy, Matplotlib.
 
 Key skills: Data cleaning, data analysis, data visualization, business insights.
+
+# Power BI Sales Dashboard
+
+4. This project analyzes sales data using Power BI.
+
+Tools Used:
+- Power BI
+- Excel / CSV Data
+
+Key Insights:
+- Total Sales: ₹118M
+- Total Units Sold: 1.13M
+- Total Profit: ₹16.89M
+
+Dashboard includes:
+- Sales by Product and Country
+- Sales by Segment
+- Monthly Sales Trend
