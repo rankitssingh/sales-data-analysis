@@ -8,32 +8,32 @@ data = pd.read_csv("customers.csv")
 print("✅ Dataset Loaded Successfully!\n")
 print(data.head())   # पहले 5 rows दिखाओ
 
-# 2️⃣ कुल Sales Calculation
+#  कुल Sales Calculation
 
 data["TotalAmount"] = data["Price"] * data["Quantity"]
 
-# 3️⃣ Product-wise Sales
+#  Product-wise Sales
 product_sales = data.groupby("Product")["TotalAmount"].sum()
 print("\n💰 Product-wise Sales:\n", product_sales)
 
-# 4️⃣ Gender-wise Spending
+#  Gender-wise Spending
 
 gender_sales = data.groupby("Gender")["TotalAmount"].sum()
 print("\n👩‍🦰👨 Gender-wise Sales:\n", gender_sales)
 
 
-# 5️⃣ Daily Sales Trend
+#  Daily Sales Trend
 
 daily_sales = data.groupby("PurchaseDate")["TotalAmount"].sum()
 print("\n📅 Daily Sales Trend:\n", daily_sales)
 
-# 6️⃣ Average Age of Customers per Product
+#  Average Age of Customers per Product
 
 avg_age = data.groupby("Product")["Age"].mean()
 print("\n📊 Average Age of Customers per Product:\n", avg_age)
 
 
-# 7️⃣ Visualization
+#  Visualization
 
 plt.figure(figsize=(14, 8))
 
@@ -64,4 +64,5 @@ plt.ylabel("Average Age")
 
 plt.tight_layout()
 plt.show()
+
 
