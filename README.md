@@ -30,3 +30,48 @@ Dashboard includes:
 - ## Dashboard Preview
 
 ![Sales Performance Dashboard](dashboard.png.png)
+
+# 📊 Power BI Sales Insights Dashboard
+
+## 🔹 Overview
+
+This project presents an interactive Sales Dashboard built using Power BI. It helps in analyzing sales performance across different cities, products, and categories.
+
+
+## 🔹 Tools & Technologies Used
+
+* Power BI
+* Microsoft Excel
+
+## 🔹 Key Features
+
+* 📌 Total Sales, Orders, and Quantity KPIs
+* 📌 Sales analysis by City & Product
+* 📌 Category-wise Sales Distribution
+* 📌 Sales Trend over Time
+* 📌 Interactive Filters (City-wise selection)
+
+## 🔹 Key Insights
+
+* 💡 Laptop is the top-selling product
+* 💡 Mumbai generates the highest sales
+* 💡 Majority of sales come from Laptop category (~69%)
+* 💡 Sales show fluctuations over different dates
+
+
+## 🔹 Dashboard Preview
+
+(Add your screenshot here)
+
+
+## 🔹 How to Use
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Interact with filters and visuals
+
+
+## 🔹 Author
+
+**Rankit Kumar**
+
