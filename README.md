@@ -60,8 +60,9 @@ This project presents an interactive Sales Dashboard built using Power BI. It he
 
 
 ## 🔹 Dashboard Preview
+<img width="1328" height="753" alt="powerbi-sales-insights-dashboard png" src="https://github.com/user-attachments/assets/e7eb97e7-7309-43cd-8056-010c07b17e92" />
 
-(Add your screenshot here)
+
 
 
 ## 🔹 How to Use
