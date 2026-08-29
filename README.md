@@ -76,3 +76,67 @@ This project presents an interactive Sales Dashboard built using Power BI. It he
 
 **Rankit Kumar**
 
+## 📊 FoodRush Customer & Delivery Analytics
+
+### 📌 Project Overview
+
+FoodRush Customer & Delivery Analytics is a Data Analyst portfolio project developed using Python to analyze food delivery data and generate meaningful business insights.
+
+### 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 📊 Key Performance Indicators
+
+- Total Orders
+- Total Revenue
+- Total Customers
+- Average Order Value
+- Average Customer Rating
+- Average Delivery Time
+- Cancellation Rate
+
+### 📈 Analysis & Visualizations
+
+- Monthly Revenue Trend
+- Top Cities by Revenue
+- Revenue by Food Category
+- Top 10 Restaurants by Revenue
+- Revenue by Payment Method
+- Revenue by Customer Age Group
+- Delivery Time vs Customer Rating
+- Order Status Distribution
+
+### 🧹 Data Cleaning
+
+- Converted Order Date into datetime format
+- Removed duplicate records
+- Handled missing values
+- Created Month, Net Value and Age Group columns
+
+### 💡 Business Insights
+
+The project identifies the best-performing city, highest-revenue food category, top restaurant, most valuable payment method, highest-revenue customer age group, average rating, delivery time and cancellation rate.
+
+### 📁 Project Structure
+
+```text
+FoodRush-Customer-Delivery-Analytics/
+│
+├── foodrush_analysis.py
+├── foodrush_orders.csv
+├── README.md
+│
+└── images/
+    ├── monthly_revenue.png
+    ├── city_revenue.png
+    ├── category_performance.png
+    ├── top_restaurants.png
+    ├── payment_methods.png
+    ├── age_group.png
+    ├── delivery_vs_rating.png
+    └── order_status.png
